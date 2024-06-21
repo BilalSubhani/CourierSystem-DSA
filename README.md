@@ -1,6 +1,6 @@
 # Courier System
 
-The Courier System project is developed using C++ and implements various Data Structures and Algorithms (DSA) for managing courier operations. It includes functionalities such as tracking packages, managing sender and receiver details, and finding the shortest path between cities.
+The Courier System project is developed using C++ and implements various Data Structures and Algorithms (DSA) for managing courier operations. It includes functionalities such as  managing sender and receiver details, and finding the shortest path between cities.
 
 ## Features
 
